@@ -7,7 +7,6 @@
 
 CS50P: Introduction to Programming with Python
 CS50P is a popular online course offered by Harvard University that teaches the fundamentals of programming using the Python language. It's designed for beginners, whether you have prior programming experience or not.   
-
 Key Features and Topics:
 Python-focused: This course delves into the specific syntax, concepts, and libraries of Python, making it a great choice for those interested in this particular language.   
 Hands-on Learning: CS50P emphasizes practical problem-solving through a series of programming assignments and projects. You'll learn by doing.   
