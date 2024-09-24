@@ -23,12 +23,9 @@ Comprehensive Coverage: The course covers a wide range of topics, including:
 Real-world Applications: The course often incorporates examples and projects inspired by real-world programming challenges.   
 Community Support: CS50 has a vibrant online community where you can connect with other students, ask questions, and collaborate on projects.
 Who is CS50P for?
-Beginners: 
-If you're new to programming, CS50P is a great starting point.
-Python enthusiasts: 
-If you're already familiar with programming but want to deepen your understanding of Python, this course can be helpful.
-Career-oriented learners: 
-CS50P can be a valuable asset for those looking to start a career in software development or data science.
+* Beginners: If you're new to programming, CS50P is a great starting point.
+* Python enthusiasts: If you're already familiar with programming but want to deepen your understanding of Python, this course can be helpful.
+* Career-oriented learners: CS50P can be a valuable asset for those looking to start a career in software development or data science.
 # 👨‍🏫 David J. Malan
 ![David J. Malan](https://cs.harvard.edu/malan/malan.jpg)
 David J. Malan is a computer scientist and professor best known for teaching the popular introductory computer science course, CS50, at Harvard University. Here's a summary of his accomplishments:
