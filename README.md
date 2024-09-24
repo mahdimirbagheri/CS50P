@@ -18,8 +18,8 @@ Comprehensive Coverage: The course covers a wide range of topics, including:
 * Object-oriented programming   
 * File I/O   
 * Regular expressions
-   
-And more...
+* And more...
+
 Real-world Applications: The course often incorporates examples and projects inspired by real-world programming challenges.   
 Community Support: CS50 has a vibrant online community where you can connect with other students, ask questions, and collaborate on projects.
 Who is CS50P for?
