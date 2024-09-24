@@ -22,6 +22,7 @@ Comprehensive Coverage: The course covers a wide range of topics, including:
 
 Real-world Applications: The course often incorporates examples and projects inspired by real-world programming challenges.   
 Community Support: CS50 has a vibrant online community where you can connect with other students, ask questions, and collaborate on projects.
+
 Who is CS50P for?
 * Beginners:
 * If you're new to programming, CS50P is a great starting point.
