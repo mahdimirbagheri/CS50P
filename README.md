@@ -11,6 +11,7 @@ CS50P is a popular online course offered by Harvard University that teaches the 
 Key Features and Topics:
 Python-focused: This course delves into the specific syntax, concepts, and libraries of Python, making it a great choice for those interested in this particular language.   
 Hands-on Learning: CS50P emphasizes practical problem-solving through a series of programming assignments and projects. You'll learn by doing.   
+
 Comprehensive Coverage: The course covers a wide range of topics, including:
 * Variables and data types   
 * Control flow (if-else statements, loops)   
