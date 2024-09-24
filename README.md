@@ -40,22 +40,16 @@ CS50 Instructor: CS50, which stands for Computer Science 50, is a massive open o
 Research Interests: Malan's research interests span various areas of computer science, including cybersecurity, digital forensics, botnets, computer science education, and online learning methodologies https://en.wikipedia.org/wiki/David_J._Malan.
 If you'd like to learn more about David J. Malan, you can visit his Harvard faculty webpage https://cs.harvard.edu/malan/ or his profile on edX https://www.edx.org/bio/david-j-malan.
 # 📚 How to join in CS50x
-* There are two main ways to join CS50, depending on whether you want a formal certificate or not:
+Joining CS50P is easy! Here's a breakdown of the steps:
 
-* Free access (no certificate):
+* Visit the CS50 Website: Go to the official CS50 website: https://pll.harvard.edu/course/cs50-introduction-computer-science   
+* Find the CS50P Course: Look for the "CS50P: Introduction to Programming with Python" course.   
+* Enroll: Follow the enrollment instructions provided on the website. This might involve creating a CS50 account or logging in if you already have one.
+* Access Course Materials: Once enrolled, you'll gain access to the course materials, including lectures, problem sets, and project assignments.
+> [!NOTE]  
+> CS50 often offers multiple ways to access the course, such as through their online platform, edX, or other partners. Be sure to check the website for the most current enrollment options. 
 
-Head over to the CS50 Introduction to Computer Science course page on edX: CS50 edX
-You can start working through the lectures, readings, and problem sets at your own pace. This is a completely free option.
-* Verified certificate (optional):
-
-Enroll for the verified certificate track on the same edX page: CS50 edX There will be a fee associated with this option.
-This gives you access to graded assignments and a verified certificate upon completion.
-* Here are some additional things to keep in mind:
-
-Regardless of the chosen path, you'll need a free edX account.
-CS50 also recommends having a free GitHub account for submitting your problem sets.
-The course content is designed to be self-paced, so you can work through it on your own schedule.
-CS50 offers a vibrant online community for help and discussions.
+Would you like more informat
 # 🌐 CS50 in Iran (CS50x Tehran)
 ![CS50x Tehran](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
 CS50x Tehran is a local initiative offering the introductory computer science course CS50 developed by Harvard University. CS50x Tehran provides the CS50 curriculum in a format accessible to Iranian learners, often with materials translated into Farsi.
