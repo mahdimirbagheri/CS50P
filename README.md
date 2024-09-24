@@ -42,14 +42,14 @@ If you'd like to learn more about David J. Malan, you can visit his Harvard facu
 # 📚 How to join in CS50x
 Joining CS50P is easy! Here's a breakdown of the steps:
 
-* Visit the CS50 Website: Go to the official CS50 website: https://pll.harvard.edu/course/cs50-introduction-computer-science   
+* Visit the CS50 Website: Go to the official CS50 website: https://www.harvardonline.harvard.edu/course/cs50s-introduction-programming-python  
 * Find the CS50P Course: Look for the "CS50P: Introduction to Programming with Python" course.   
 * Enroll: Follow the enrollment instructions provided on the website. This might involve creating a CS50 account or logging in if you already have one.
 * Access Course Materials: Once enrolled, you'll gain access to the course materials, including lectures, problem sets, and project assignments.
   
 > [!NOTE]  
 > CS50 often offers multiple ways to access the course, such as through their online platform, edX, or other partners. Be sure to check the website for the most current enrollment options.
-> 
+
 # 🌐 CS50 in Iran (CS50x Tehran)
 ![CS50x Tehran](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
 CS50x Tehran is a local initiative offering the introductory computer science course CS50 developed by Harvard University. CS50x Tehran provides the CS50 curriculum in a format accessible to Iranian learners, often with materials translated into Farsi.
